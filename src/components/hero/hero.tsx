@@ -4,6 +4,14 @@ import React from 'react';
 const hero: React.FC = () => {
   return (
     <div class="content">
+        <h1 class="logo-svg"><img src="img/Y2k_R.svg" alt="" />
+            <div class="aurora">
+            <div class="aurora__item"></div>
+            <div class="aurora__item"></div>
+            <div class="aurora__item"></div>
+            <div class="aurora__item"></div>
+            </div>
+        </h1>
         <h1 class="title">Raito
             <div class="aurora">
             <div class="aurora__item"></div>
