@@ -3,29 +3,29 @@ import React from 'react';
 
 const hero: React.FC = () => {
   return (
-    <div class="content">
-        <h1 class="logo-svg"><img src="img/Y2k_R.svg" alt="" />
-            <div class="aurora">
-            <div class="aurora__item"></div>
-            <div class="aurora__item"></div>
-            <div class="aurora__item"></div>
-            <div class="aurora__item"></div>
+    <div className="content">
+        <h1 className="logo-svg"><img src="img/Y2k_R.svg" alt="" />
+            <div className="aurora">
+            <div className="aurora__item"></div>
+            <div className="aurora__item"></div>
+            <div className="aurora__item"></div>
+            <div className="aurora__item"></div>
             </div>
         </h1>
-        <h1 class="title">Raito
-            <div class="aurora">
-            <div class="aurora__item"></div>
-            <div class="aurora__item"></div>
-            <div class="aurora__item"></div>
-            <div class="aurora__item"></div>
+        <h1 className="title">Raito
+            <div className="aurora">
+            <div className="aurora__item"></div>
+            <div className="aurora__item"></div>
+            <div className="aurora__item"></div>
+            <div className="aurora__item"></div>
             </div>
         </h1>
-        <h2 class="title-2">3D Designer
-            <div class="aurora">
-            <div class="aurora__item"></div>
-            <div class="aurora__item"></div>
-            <div class="aurora__item"></div>
-            <div class="aurora__item"></div>
+        <h2 className="title-2">3D Designer
+            <div className="aurora">
+            <div className="aurora__item"></div>
+            <div className="aurora__item"></div>
+            <div className="aurora__item"></div>
+            <div className="aurora__item"></div>
             </div>
         </h2>
     </div>

@@ -13,7 +13,6 @@
     position: absolute;
     overflow: hidden;
     background: var(--bg);
-    margin: 0;
     width: 100%;
     color: #fff;
 }
@@ -31,4 +30,5 @@
 
 h3 {
     font-size: 2rem;
+    padding: 3rem 0;
 }
